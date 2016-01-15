@@ -1,0 +1,13 @@
+{
+    "name": "rc-align",
+    "description": "align ui component for react",
+    "repos": "https://github.com/react-component/align.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "dom-align": "1.x",
+        "rc-util": "2.x"
+    },
+    "version": "2.2.0"
+}
